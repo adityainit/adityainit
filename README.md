@@ -4,7 +4,7 @@
 
 **AI/ML Engineer in Progress · B.Tech CSE 2026–2030**
 
-[Gmail](mailto:adityaranjan.me@gmail.com) · [LinkedIn](https://linkedin.com)
+[Gmail](mailto:adityaranjan.me@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adityainit/)
 
 </div>
 
