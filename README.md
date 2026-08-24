@@ -1,43 +1,30 @@
-<div align="center">
+# Hey, I'm Aditya 👋
 
-# Aditya Ranjan
+I'm a BTech CSE student learning how to turn ideas into things that actually work.
 
-**AI/ML Engineer in Progress · B.Tech CSE 2026–2030**
+I'm still at the beginning of my coding journey, so this profile is mostly a record of what I'm learning, building, breaking, and improving.
 
-[Gmail](mailto:adityaranjan.me@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adityainit/)
+## What I'm learning
 
-</div>
+- Programming fundamentals
+- Problem solving
+- Git & GitHub
+- Building small projects
+- Using AI as a learning and development tool
 
----
+## What I'm working on
 
-## About
+I'm currently experimenting with different projects to understand what I actually enjoy building.
 
-I'm a Computer Science student starting B.Tech in 2026, focused entirely on Artificial Intelligence and Machine Learning. My approach is simple — build strong fundamentals first, then apply them to real projects.
+Some projects will be small.
+Some will probably be terrible.
+Hopefully, they'll get better over time.
 
-Currently investing time in Python and the mathematics behind ML before college starts, so I hit the ground running from Day 1.
+## Beyond code
 
----
+I'm also interested in content creation, storytelling, and improving how I communicate ideas.
 
-## Focus Areas
-
-- Machine Learning & Deep Learning
-- Python for AI/ML
-- Mathematics — Linear Algebra, Calculus, Statistics
-- Data Analysis — NumPy, Pandas
-
----
-
-## Currently Learning
-
-| Topic | Status |
-|---|---|
-| Python Fundamentals | 🔄 In Progress |
-| Mathematics for ML | 🔄 In Progress |
-| NumPy & Pandas | ⏳ Up Next |
-| Machine Learning | ⏳ Up Next |
-| Deep Learning | ⏳ Up Next |
-
----
+### Currently learning → Building → Improving
 
 ## Tools
 
